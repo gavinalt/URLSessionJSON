@@ -1,0 +1,55 @@
+{
+    "author": [
+        {
+            "name": "John",
+            "book": [
+                {
+                    "title": "John1",
+                    "year": 2018
+                },
+                {
+                    "title": "John2",
+                    "year": 2019
+                },
+                {
+                    "title": "John3",
+                    "year": 2020
+                }
+            ]
+        },
+        {
+            "name": "Max",
+            "book": [
+                {
+                    "title": "Max1",
+                    "year": 2018
+                },
+                {
+                    "title": "Max2",
+                    "year": 2019
+                },
+                {
+                    "title": "Max3",
+                    "year": 2020
+                }
+            ]
+        },
+        {
+            "name": "Mark",
+            "book": [
+                {
+                    "title": "Mark1",
+                    "year": 2018
+                },
+                {
+                    "title": "Mark2",
+                    "year": 2019
+                },
+                {
+                    "title": "Mark3",
+                    "year": 2020
+                }
+            ]
+        }
+    ]
+}
